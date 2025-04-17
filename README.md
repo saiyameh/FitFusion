@@ -1,33 +1,19 @@
-# FitFusion
-
-FitFusion is an innovative fitness application designed to provide users with real-time posture correction, personalized tutorials, and guidance to enhance their workout routines. Leveraging cutting-edge technology, it ensures users achieve their fitness goals safely and effectively.
-
-## 🚀 Features  
-
-- **Real-Time Posture Check**: AI-driven analysis to ensure proper workout posture.  
-- **Personalized Tutorials**: Step-by-step tutorials tailored to individual fitness levels.  
-- **User-Friendly Interface**: Intuitive design for seamless navigation and interaction.  
-- **Workout Analytics**: Track progress and receive detailed insights on performance.  
-- **Cross-Platform Compatibility**: Accessible on both web and mobile platforms.
-
-## 🛠️ Technologies Used  
-
-- **Frontend**: React, HTML5, CSS3  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
-- **AI Integration**: TensorFlow.js or ZegoCloud for real-time posture checking  
-- **Version Control**: Git and GitHub  
-
-## 📂 Project Structure  
-
+**about:** FitFusion is an innovative fitness application designed to provide users with real-time posture correction, personalized tutorials, and guidance to enhance their workout routines. Leveraging cutting-edge technology, it ensures users achieve their fitness goals safely & effectively<br>
+**features:** real-time posture check, personalized tutorials, user-friendly interface, workout analytics, cross-platform compatibility<br>
+**requirements:** **React, HTML5, CSS3, Node.js, Express.js, MongoDB, TensorFlow.js or ZegoCloud for real-time posture checking**<br>
+**structure:**
 ```plaintext
 FitFusion/
 ├── src/
-│   ├── components/   # Reusable UI components
-│   ├── pages/        # Individual pages
-│   ├── services/     # API services and utilities
-│   ├── styles/       # Global and component-specific styles
-├── public/           # Static assets
-├── server/           # Backend server code
-├── README.md         # Project documentation
-└── package.json      # Project dependencies and scripts
+│   ├── components/   # reusable UI components
+│   ├── pages/        # individual pages
+│   ├── services/     # API services & utilities
+│   ├── styles/       # global & component-specific styles
+├── public/           # static assets
+├── server/           # backend server code
+├── README.md         # project documentation
+└── package.json      # project dependencies & scripts
+```
+**made by:**<br><a href="https://github.com/prashant-mishra-projects/FitFusion/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=prashant-mishra-projects/FitFusion" />
+</a>
