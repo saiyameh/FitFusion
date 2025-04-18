@@ -14,6 +14,3 @@ FitFusion/
 ├── README.md         # project documentation
 └── package.json      # project dependencies & scripts
 ```
-**contributors:**<br><a href="https://github.com/prashant-mishra-projects/FitFusion/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=prashant-mishra-projects/FitFusion" />
-</a>
