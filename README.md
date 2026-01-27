@@ -1,8 +1,24 @@
-**about:** FitFusion is an innovative fitness application designed to provide users with real-time posture correction, personalized tutorials, and guidance to enhance their workout routines. Leveraging cutting-edge technology, it ensures users achieve their fitness goals safely & effectively<br>
-**features:** real-time posture check, personalized tutorials, user-friendly interface, workout analytics, cross-platform compatibility<br>
-**requirements:** **React, HTML5, CSS3, Node.js, Express.js, MongoDB, TensorFlow.js or ZegoCloud for real-time posture checking**<br>
-**structure:**
-```plaintext
+> A full-stack fitness application that provides real-time posture correction, personalized exercise tutorials, and guided workouts.
+
+## Overview
+FitFusion leverages real-time posture analysis and interactive guidance to improve workout form, reduce injury risk, and enhance overall training effectiveness.
+
+## Features
+- Real-time posture detection and correction
+- Personalized workout and exercise tutorials
+- YouTube API integration for dynamic video embedding
+- Workout tracking and analytics
+- Clean, user-friendly interface
+
+## Tech Stack
+- **Frontend / App:** Streamlit  
+- **Backend:** Python  
+- **Computer Vision:** OpenCV, MediaPipe, Pillow  
+- **APIs & Utilities:** Requests, YouTube API  
+- **Database:** Firebase  
+
+## Project Structure
+```bash
 FitFusion/
 ├── src/
 │   ├── components/   # reusable UI components
